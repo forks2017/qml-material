@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/icons/navigation">
+        <file alias="navigation.svg">maps_navigation.svg</file>
+        <file alias="apps.svg">navigation_apps.svg</file>
+        <file alias="arrow_back.svg">navigation_arrow_back.svg</file>
+        <file alias="arrow_downward.svg">navigation_arrow_downward.svg</file>
+        <file alias="arrow_drop_down.svg">navigation_arrow_drop_down.svg</file>
+        <file alias="arrow_drop_down_circle.svg">navigation_arrow_drop_down_circle.svg</file>
+        <file alias="arrow_drop_up.svg">navigation_arrow_drop_up.svg</file>
+        <file alias="arrow_forward.svg">navigation_arrow_forward.svg</file>
+        <file alias="arrow_upward.svg">navigation_arrow_upward.svg</file>
+        <file alias="cancel.svg">navigation_cancel.svg</file>
+        <file alias="check.svg">navigation_check.svg</file>
+        <file alias="chevron_left.svg">navigation_chevron_left.svg</file>
+        <file alias="chevron_right.svg">navigation_chevron_right.svg</file>
+        <file alias="close.svg">navigation_close.svg</file>
+        <file alias="expand_less.svg">navigation_expand_less.svg</file>
+        <file alias="expand_more.svg">navigation_expand_more.svg</file>
+        <file alias="fullscreen.svg">navigation_fullscreen.svg</file>
+        <file alias="fullscreen_exit.svg">navigation_fullscreen_exit.svg</file>
+        <file alias="menu.svg">navigation_menu.svg</file>
+        <file alias="more_horiz.svg">navigation_more_horiz.svg</file>
+        <file alias="more_vert.svg">navigation_more_vert.svg</file>
+        <file alias="refresh.svg">navigation_refresh.svg</file>
+        <file alias="subdirectory_arrow_left.svg">navigation_subdirectory_arrow_left.svg</file>
+        <file alias="subdirectory_arrow_right.svg">navigation_subdirectory_arrow_right.svg</file>
+        <file alias="unfold_less.svg">navigation_unfold_less.svg</file>
+        <file alias="unfold_more.svg">navigation_unfold_more.svg</file>
+    </qresource>
+</RCC>

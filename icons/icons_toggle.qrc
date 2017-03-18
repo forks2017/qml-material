@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/icons/toggle">
+        <file alias="check_box.svg">toggle_check_box.svg</file>
+        <file alias="check_box_outline_blank.svg">toggle_check_box_outline_blank.svg</file>
+        <file alias="indeterminate_check_box.svg">toggle_indeterminate_check_box.svg</file>
+        <file alias="radio_button_checked.svg">toggle_radio_button_checked.svg</file>
+        <file alias="radio_button_unchecked.svg">toggle_radio_button_unchecked.svg</file>
+        <file alias="star.svg">toggle_star.svg</file>
+        <file alias="star_border.svg">toggle_star_border.svg</file>
+        <file alias="star_half.svg">toggle_star_half.svg</file>
+    </qresource>
+</RCC>

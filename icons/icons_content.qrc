@@ -1,0 +1,43 @@
+<RCC>
+    <qresource prefix="/icons/content">
+        <file alias="add.svg">content_add.svg</file>
+        <file alias="add_box.svg">content_add_box.svg</file>
+        <file alias="add_circle.svg">content_add_circle.svg</file>
+        <file alias="add_circle_outline.svg">content_add_circle_outline.svg</file>
+        <file alias="archive.svg">content_archive.svg</file>
+        <file alias="backspace.svg">content_backspace.svg</file>
+        <file alias="block.svg">content_block.svg</file>
+        <file alias="clear.svg">content_clear.svg</file>
+        <file alias="content_copy.svg">content_content_copy.svg</file>
+        <file alias="content_cut.svg">content_content_cut.svg</file>
+        <file alias="content_paste.svg">content_content_paste.svg</file>
+        <file alias="create.svg">content_create.svg</file>
+        <file alias="drafts.svg">content_drafts.svg</file>
+        <file alias="filter_list.svg">content_filter_list.svg</file>
+        <file alias="flag.svg">content_flag.svg</file>
+        <file alias="font_download.svg">content_font_download.svg</file>
+        <file alias="forward.svg">content_forward.svg</file>
+        <file alias="gesture.svg">content_gesture.svg</file>
+        <file alias="inbox.svg">content_inbox.svg</file>
+        <file alias="link.svg">content_link.svg</file>
+        <file alias="mail.svg">content_mail.svg</file>
+        <file alias="markunread.svg">content_markunread.svg</file>
+        <file alias="move_to_inbox.svg">content_move_to_inbox.svg</file>
+        <file alias="next_week.svg">content_next_week.svg</file>
+        <file alias="redo.svg">content_redo.svg</file>
+        <file alias="remove.svg">content_remove.svg</file>
+        <file alias="remove_circle.svg">content_remove_circle.svg</file>
+        <file alias="remove_circle_outline.svg">content_remove_circle_outline.svg</file>
+        <file alias="reply.svg">content_reply.svg</file>
+        <file alias="reply_all.svg">content_reply_all.svg</file>
+        <file alias="report.svg">content_report.svg</file>
+        <file alias="save.svg">content_save.svg</file>
+        <file alias="select_all.svg">content_select_all.svg</file>
+        <file alias="send.svg">content_send.svg</file>
+        <file alias="sort.svg">content_sort.svg</file>
+        <file alias="text_format.svg">content_text_format.svg</file>
+        <file alias="unarchive.svg">content_unarchive.svg</file>
+        <file alias="undo.svg">content_undo.svg</file>
+        <file alias="weekend.svg">content_weekend.svg</file>
+    </qresource>
+</RCC>

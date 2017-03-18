@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/icons/social">
+        <file alias="cake.svg">social_cake.svg</file>
+        <file alias="domain.svg">social_domain.svg</file>
+        <file alias="group.svg">social_group.svg</file>
+        <file alias="group_add.svg">social_group_add.svg</file>
+        <file alias="location_city.svg">social_location_city.svg</file>
+        <file alias="mood.svg">social_mood.svg</file>
+        <file alias="mood_bad.svg">social_mood_bad.svg</file>
+        <file alias="notifications.svg">social_notifications.svg</file>
+        <file alias="notifications_active.svg">social_notifications_active.svg</file>
+        <file alias="notifications_none.svg">social_notifications_none.svg</file>
+        <file alias="notifications_off.svg">social_notifications_off.svg</file>
+        <file alias="notifications_paused.svg">social_notifications_paused.svg</file>
+        <file alias="pages.svg">social_pages.svg</file>
+        <file alias="party_mode.svg">social_party_mode.svg</file>
+        <file alias="people.svg">social_people.svg</file>
+        <file alias="people_outline.svg">social_people_outline.svg</file>
+        <file alias="person.svg">social_person.svg</file>
+        <file alias="person_add.svg">social_person_add.svg</file>
+        <file alias="person_outline.svg">social_person_outline.svg</file>
+        <file alias="plus_one.svg">social_plus_one.svg</file>
+        <file alias="poll.svg">social_poll.svg</file>
+        <file alias="public.svg">social_public.svg</file>
+        <file alias="school.svg">social_school.svg</file>
+        <file alias="share.svg">social_share.svg</file>
+        <file alias="whatshot.svg">social_whatshot.svg</file>
+    </qresource>
+</RCC>

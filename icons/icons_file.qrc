@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/icons/file">
+        <file alias="attach_file.svg">editor_attach_file.svg</file>
+        <file alias="insert_drive_file.svg">editor_insert_drive_file.svg</file>
+        <file alias="attachment.svg">file_attachment.svg</file>
+        <file alias="cloud.svg">file_cloud.svg</file>
+        <file alias="cloud_circle.svg">file_cloud_circle.svg</file>
+        <file alias="cloud_done.svg">file_cloud_done.svg</file>
+        <file alias="cloud_download.svg">file_cloud_download.svg</file>
+        <file alias="cloud_off.svg">file_cloud_off.svg</file>
+        <file alias="cloud_queue.svg">file_cloud_queue.svg</file>
+        <file alias="cloud_upload.svg">file_cloud_upload.svg</file>
+        <file alias="create_new_folder.svg">file_create_new_folder.svg</file>
+        <file alias="file_download.svg">file_file_download.svg</file>
+        <file alias="file_upload.svg">file_file_upload.svg</file>
+        <file alias="folder.svg">file_folder.svg</file>
+        <file alias="folder_open.svg">file_folder_open.svg</file>
+        <file alias="folder_shared.svg">file_folder_shared.svg</file>
+    </qresource>
+</RCC>

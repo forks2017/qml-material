@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg t="1488691868376" class="icon" style="" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="4412" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48">
+	<defs>
+		<style type="text/css"/>
+	</defs>
+  <path stroke="null" id="svg_1" d="m954.824,883.727998l-216.256,-216.326c46.915,-61.564 74.822,-138.393 74.822,-221.769c0,-202.296 -163.994,-366.289 -366.289,-366.289c-202.296,0 -366.289,163.993 -366.289,366.289s163.992,366.29 366.288,366.29c83.771,0 160.922,-28.182 222.631,-75.499l216.156,216.226c18.38,18.383 48.458,18.387 66.841,0.008l2.089,-2.089c18.383,-18.38 18.386,-48.457 0.007,-66.841zm-508.463,-164.116c-151.722,0 -274.717,-122.994 -274.717,-274.717c0,-151.722 122.996,-274.716 274.717,-274.716s274.717,122.994 274.717,274.716c0,151.722 -122.995,274.717 -274.717,274.717z"/>
+  <ellipse stroke="null" ry="18.588248" rx="18.588248" id="svg_4" cy="396.156855" cx="447.666665" fill-opacity="null" stroke-opacity="null" stroke-width="null" fill="null"/>
+  <text stroke="null" transform="matrix(13.401933670043945,0,0,13.401933670043945,-4445.124319642782,-3477.967273592949) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_7" y="301.484046" x="347.733372" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">1 1</text>
+  <ellipse stroke="null" ry="18.588248" rx="18.588248" id="svg_8" cy="515.470436" cx="450.705875" fill-opacity="null" stroke-opacity="null" stroke-width="null" fill="null"/>
+</svg>
+

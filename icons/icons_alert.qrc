@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/icons/alert">
+        <file alias="add_alert.svg">alert_add_alert.svg</file>
+        <file alias="error.svg">alert_error.svg</file>
+        <file alias="error_outline.svg">alert_error_outline.svg</file>
+        <file alias="warning.svg">alert_warning.svg</file>
+        <file alias="battery_alert.svg">device_battery_alert.svg</file>
+        <file alias="sim_card_alert.svg">notification_sim_card_alert.svg</file>
+    </qresource>
+</RCC>
