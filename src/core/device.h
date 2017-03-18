@@ -42,7 +42,7 @@ public:
         TV,
         Unknown
     };
-    Q_ENUM(FormFactor)
+    Q_ENUMS(FormFactor)
 
     Device(QObject *parent = nullptr);
 

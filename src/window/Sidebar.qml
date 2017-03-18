@@ -10,7 +10,7 @@
 
 import QtQuick 2.4
 import Material 0.3
-import "ListItems" as ListItem
+import Material.ListItems 0.1 as ListItem
 
 /*!
    \qmltype Sidebar
