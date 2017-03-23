@@ -43,7 +43,7 @@ PopupBase {
     function open(caller, offsetX, offsetY) {
         parent = Utils.findRootChild(popover, overlayLayer)
 
-        if (!parent.enabled)
+        if (!parent || !parent.enabled)
             return
 
         if (parent.currentOverlay)

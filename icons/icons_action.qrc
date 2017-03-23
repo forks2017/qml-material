@@ -215,5 +215,6 @@
         <file alias="setting.svg">action_setting.svg</file>
         <file alias="scroll_leftend.svg">action_scroll_leftend.svg</file>
         <file alias="scroll_rightend.svg">action_scroll_rightend.svg</file>
+        <file alias="hide_sidebar.svg">action_hide_sidebar.svg</file>
     </qresource>
 </RCC>

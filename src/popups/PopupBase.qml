@@ -45,7 +45,7 @@ FocusScope {
         __lastFocusedItem = Window.activeFocusItem
         parent = Utils.findRootChild(popup, overlayLayer)
 
-        if (!parent.enabled)
+        if (!parent || !parent.enabled)
             return
 
         showing = true
